@@ -1,0 +1,68 @@
+	body { 
+		padding-left: 19em;
+		background-color: #B0E0E6;
+		background-repeat: no-repeat;
+		background-position:
+		color: #A0522D;
+		font-family: georgia, "Times New Roman", Times, serif;}
+
+	ul.navbar {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+
+	position: absolute;
+	top: -0.70em;
+	left: 2.50em;
+	width: 14em;}
+
+	a:link { color: blue; }
+
+	a:visited { color: purple; }
+
+	a:active { color: yellow; }
+
+	a:hover { color: green; font-family: arial; }
+
+	h1 {background-color: #32CD32; 
+		text-align: center;
+		color: #A0522D;
+		text-decoration: underline;}
+
+
+		ul.navbar li{
+		background: #ADFF2F;
+		margin: 2em -1.50em;
+		padding: 0.5em;
+		border-right: 1em solid #A0522D;
+		border-left: 1em solid #A0522D;
+		text-align: center;
+		font-family: cooper black;}
+
+	h2 {text-align: left;
+		text-shadow: 0.1em 0.2em 0.2em #333;
+		position: absolute; top: 22em; left: 21.50em;}
+
+	h4 {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+
+	position: absolute;
+	text-align: justify; 
+	top: 43em;
+	left: 4.40em;
+	width: 15em; }
+
+
+	p { position: absolute; left: 37em; top: 24em; text-align: justify;font-size: 1.25em; text-indent: 1em; width: 20em;}
+
+	iframe { position: absolute; top: 51em; left: 46em; }
+
+	address { position: absolute; top: 66em; left: 46em; }
+
+	div { position: absolute; top: 5em; left: 12em; }
+
+	input { background-color: #DCDCDC; }
+
+	input:hover { background-color: white; }
